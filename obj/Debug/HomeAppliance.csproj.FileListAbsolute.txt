@@ -1,0 +1,16 @@
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.csproj.AssemblyReference.cache
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.csproj.SuggestedBindingRedirects.cache
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.AddProduct.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.Login.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.MainFrom.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.Selling.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.Splash.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.Properties.Resources.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.ViewStock.resources
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.csproj.GenerateResource.cache
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.csproj.CoreCompileInputs.cache
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\bin\Debug\HomeAppliance.exe.config
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\bin\Debug\HomeAppliance.exe
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\bin\Debug\HomeAppliance.pdb
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.exe
+C:\Users\naorm\OneDrive\Desktop\personal projects\HomeAppliance\obj\Debug\HomeAppliance.pdb
